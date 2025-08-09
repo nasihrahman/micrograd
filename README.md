@@ -62,17 +62,7 @@ python demo.py
 
 ---
 
-## 📂 File Structure
 
-```
-micrograd/
-├─ engine.py       # Core autograd engine
-├─ nn.py           # Neural network module
-├─ demo.py         # Example usage
-├─ notebooks/      # Tutorial notebooks
-├─ LICENSE
-└─ README.md
-```
 
 ---
 
