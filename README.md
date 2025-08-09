@@ -81,11 +81,6 @@ print(a.grad, b.grad)  # Gradients for a and b
 
 ---
 
-## 📜 License
-
-MIT License — See [LICENSE](LICENSE) for details.
-
----
 
 ## 🙏 Acknowledgements
 
